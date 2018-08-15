@@ -1,0 +1,4 @@
+potree
+web三维点云展示
+这个可以展示扫描模型，目测可以展示十几万点的没什么问题
+https://github.com/potree/potree
