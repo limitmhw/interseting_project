@@ -1,0 +1,17 @@
+
+PersonLab
+一个人体姿态算法
+https://medium.com/tensorflow/move-mirror-an-ai-experiment-with-pose-estimation-in-the-browser-using-tensorflow-js-2f7b769f9b23
+https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5
+https://github.com/sydsim/personlab-tf
+https://github.com/octiapp/KerasPersonLab
+
+bodynet
+利用二维RGB生成三维模型的ECCV2018
+https://github.com/gulvarol/bodynet
+
+
+SURREAL
+利用惯导系统和三维系统生成的，人体虚拟数据集合，目测背景是二维的
+CVPR 2017
+https://github.com/gulvarol/surreal
